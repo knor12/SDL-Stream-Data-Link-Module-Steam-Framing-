@@ -1,0 +1,1 @@
+C:\MinGW_4_8_2\bin\make.exe all 
